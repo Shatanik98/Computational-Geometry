@@ -1,2 +1,1 @@
-# Computational-Geometry
-A collection of computational geometry algorithms.
+### A collection of computational geometry algorithms.
